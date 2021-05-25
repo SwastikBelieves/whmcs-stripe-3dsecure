@@ -1,4 +1,4 @@
-# whmcs-stripe-3dsecure
+# WHMCS Stripe 3DSecure Module (Source code included)
 
 WHMCS Stripe 3D Secure Module by MXiDev.com (China - Thief)
 
